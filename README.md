@@ -8,7 +8,7 @@ Welcome to my GitHub profile!
 - 🎯 My goal is to bridge technical solutions with business value and drive innovation at scale.
 
 ## 💡 Skills and Interests
-- **Languages:** Python, Dart (Flutter), TypeScript
+- **Languages:** Python, Dart, TypeScript
 - **Cloud Platforms:** Firebase, AWS, Azure
 - **Databases:** Supabase, SQL, DuckDB
 - **Specialties:** RESTful APIs, GraphQL, OAuth2, Automation, CRM Customization (Salesforce, HubSpot)

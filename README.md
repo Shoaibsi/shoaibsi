@@ -1,4 +1,4 @@
-# Hi there, I'm Shoaibsi! 👋
+# Hi there, I'm Shoaib! 👋
 
 Welcome to my GitHub profile!
 
